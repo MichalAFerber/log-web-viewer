@@ -1,0 +1,13 @@
+# Log Viewer
+
+> A fast, single-file log viewer. Drop a .log or text file to read it with search, level filtering (ERROR/WARN/INFO…) and smooth virtualized scrolling — even for huge files. Nothing uploaded.
+
+The viewer is one self-contained HTML file (no build step) and works offline. Files never leave the visitor's device — no uploads, no accounts, no server-side processing.
+
+## Links
+
+- [Open the viewer](https://log-viewer.us/)
+- [GitHub](https://github.com/MichalAFerber/log-web-viewer): Source (single index.html)
+- [File Viewer family hub](https://file-viewer.us/): All viewers in the family
+- [Privacy Policy](https://file-viewer.us/privacy.html)
+- [Terms of Use](https://file-viewer.us/terms.html)

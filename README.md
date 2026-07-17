@@ -67,7 +67,9 @@ lines scroll horizontally rather than wrapping. Level detection is heuristic
 ## Credits
 
 No bundled libraries — the viewer is original to this project. The terminal icon
-is by the author. Analytics by [Plausible](https://plausible.io/).
+is by the author. Analytics by [Plausible](https://plausible.io/). Headings use
+[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) (bundled subset,
+SIL OFL-1.1).
 
 ## License
 
