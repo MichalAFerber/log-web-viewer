@@ -1,0 +1,18 @@
+{
+  "name": "Log Viewer",
+  "short_name": "Log Viewer",
+  "description": "A fast, single-file log viewer. Drop a .log or text file to read it with search, level filtering (ERROR/WARN/INFO\u2026) and smooth virtualized scrolling \u2014 even for huge files. Nothing uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
